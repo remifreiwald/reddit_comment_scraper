@@ -1,6 +1,8 @@
 # Reddit Comment Scraper
 
-A simple comment scraper for Reddit written in Python
+A simple comment scraper for Reddit written in Python.
+
+The script retrieves all comments for a single Reddit Post/Submission and puts them in a pandas DataFrame.
 
 ## Prerequisites
 Python libraries:
